@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.one-section{
+    padding: 114px 0 215px;
+    background: white;
+}
+.main-heading{
+    margin-top: 110px;
+    color: #19191B;
+    font-family: "Josefin Sans";
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: -2.501px;
+}
+.pose1{
+    margin: 0 auto;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.main-description{
+    color: #696871;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: -0.625px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.main-button{
+    color: #FFF;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 17px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.531px;
+    border-radius: 5px;
+    background: #5454D4;
+    padding: 20px 50px;
+    cursor: pointer;
+}
+.started{
+    display: flex;
+    align-items: center;
+}
+.arrow-img{
+    margin-left: 37px;
+}
+.logo-icons{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 0 auto;
+}
+.main2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+.two-heading{
+    margin-top: 110px;
+    color: #19191B;
+    font-family: "Josefin Sans";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57px; /* 114% */
+    letter-spacing: -1.563px;
+}
+.two-description{
+    color: #696871;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+    letter-spacing: -0.625px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.two-button{
+    color: #5454D4;
+    font-family: "Open Sans";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.531px;
+    background: white;
+    cursor: pointer;
+}
+.main3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.three-heading{
+    margin-top: 180px;
+    color: #19191B;
+    font-family: "Josefin Sans";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57px; /* 114% */
+    letter-spacing: -1.563px;
+}
+.three-description{
+    color: #696871;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+    letter-spacing: -0.625px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.three-button{
+    color: #5454D4;
+    font-family: "Open Sans";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.531px;
+    background: white;
+    cursor: pointer;
+}
+.main3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
